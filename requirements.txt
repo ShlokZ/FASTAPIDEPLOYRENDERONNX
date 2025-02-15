@@ -5,3 +5,5 @@ numpy
 torch
 ultralytics
 python-multipart
+onnx
+onnxruntime
